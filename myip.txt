@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/NeeoHe/sese/refs/heads/main/all_region_ip.txt
+https://raw.githubusercontent.com/NeeoHe/sese/refs/heads/main/cm_broadband.txt
