@@ -2,3 +2,5 @@ chatgpt.com
 twitch.tv
 grok.com
 ip.sb
+x.com
+twimg.com
